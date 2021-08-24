@@ -1,0 +1,4 @@
+#Wed Aug 25 01:06:53 PKT 2021
+base.0=/Users/techreneur/Flutter Github Repository/Video-Player-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
