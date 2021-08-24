@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/techreneur/Flutter Github Repository/Video-Player-main/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/techreneur/Flutter Github Repository/Flutter-Video-App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/techreneur/Flutter Github Repository/Video-Player-main/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/techreneur/Flutter Github Repository/Flutter-Video-App/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

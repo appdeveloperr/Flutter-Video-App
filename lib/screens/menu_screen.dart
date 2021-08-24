@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:netsign/models/menu_model.dart';
+import 'package:netsign.tv/models/menu_model.dart';
 
 class MenuScreen extends StatelessWidget {
   @override

@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/route_manager.dart';
 
-import 'package:netsign/data/global_data.dart';
-import 'package:netsign/screens/menu_screen.dart';
-import 'package:netsign/screens/video_player_screen.dart';
+import 'package:netsign.tv/data/global_data.dart';
+import 'package:netsign.tv/screens/menu_screen.dart';
+import 'package:netsign.tv/screens/video_player_screen.dart';
 
 class HomeGallery extends StatefulWidget {
   HomeGallery({Key? key}) : super(key: key);

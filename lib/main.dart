@@ -2,10 +2,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:netsign/screens/faq_and_support.dart';
-import 'package:netsign/screens/home_gallery.dart';
-import 'package:netsign/screens/privacy_policy.dart';
-import 'package:netsign/screens/term_and_condition.dart';
+import 'package:netsign.tv/screens/faq_and_support.dart';
+import 'package:netsign.tv/screens/home_gallery.dart';
+import 'package:netsign.tv/screens/privacy_policy.dart';
+import 'package:netsign.tv/screens/term_and_condition.dart';
 
 void main() {
   runApp(GetMaterialApp(
